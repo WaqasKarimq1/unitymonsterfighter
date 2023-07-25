@@ -1,0 +1,100 @@
+Monsters: 44 
+| Fire: 5 | Fire/Water: 3 | Fire/Earth: 3 | Fire/Wind: 3 | Fire/Divine: 1 |
+| Water: 5 | Water/Earth: 3 | Water/Wind: 3 | Water/Divine: 1 |
+| Earth: 5 | Earth/Wind: 3 | Earth/Divine: 1 |
+| Wind: 5 | Wind/Divine: 1 |
+| Divine: 2 |
+
+
+
+
+| Fire -> Wind | Water -> Fire | Earth -> Water | Wind -> Earth | Divine -> Divine |
+
+01: Type(s): Fire |HP: ATK: DEF: SPD: |
+    Moves: {}
+02: Type(s): Fire |HP: ATK: DEF: SPD: |
+    Moves: {}
+03: Type(s): Fire |HP: ATK: DEF: SPD: |
+    Moves: {}
+04: Type(s): Fire |HP: ATK: DEF: SPD: |
+    Moves: {}
+05: Type(s): Fire |HP: ATK: DEF: SPD: |
+    Moves: {}
+06: Type(s): Water |HP: ATK: DEF: SPD: |
+    Moves: {}
+07: Type(s): Water |HP: ATK: DEF: SPD: |
+    Moves: {}
+08: Type(s): Water |HP: ATK: DEF: SPD: |
+    Moves: {}
+09: Type(s): Water |HP: ATK: DEF: SPD: |
+    Moves: {}
+10: Type(s): Water |HP: ATK: DEF: SPD: |
+    Moves: {}
+11: Type(s): Earth |HP: ATK: DEF: SPD: |
+    Moves: {}
+12: Type(s): Earth |HP: ATK: DEF: SPD: |
+    Moves: {}
+13: Type(s): Earth |HP: ATK: DEF: SPD: |
+    Moves: {}
+14: Type(s): Earth |HP: ATK: DEF: SPD: |
+    Moves: {}
+15: Type(s): Earth |HP: ATK: DEF: SPD: |
+    Moves: {}
+16: Type(s): Wind |HP: ATK: DEF: SPD: |
+    Moves: {}
+17: Type(s): Wind |HP: ATK: DEF: SPD: |
+    Moves: {}
+18: Type(s): Wind |HP: ATK: DEF: SPD: |
+    Moves: {}
+19: Type(s): Wind |HP: ATK: DEF: SPD: |
+    Moves: {}
+20: Type(s): Wind |HP: ATK: DEF: SPD: |
+    Moves: {}
+21: Type(s): Fire/Water |HP: ATK: DEF: SPD: |
+    Moves: {}
+22: Type(s): Fire/Water |HP: ATK: DEF: SPD: |
+    Moves: {}
+23: Type(s): Fire/Water |HP: ATK: DEF: SPD: |
+    Moves: {}
+24: Type(s): Fire/Earth |HP: ATK: DEF: SPD: |
+    Moves: {}
+25: Type(s): Fire/Earth |HP: ATK: DEF: SPD: |
+    Moves: {}
+26: Type(s): Fire/Earth |HP: ATK: DEF: SPD: |
+    Moves: {}
+27: Type(s): Fire/Wind |HP: ATK: DEF: SPD: |
+    Moves: {}
+28: Type(s): Fire/Wind |HP: ATK: DEF: SPD: |
+    Moves: {}
+29: Type(s): Fire/Wind |HP: ATK: DEF: SPD: |
+    Moves: {}
+30: Type(s): Water/Earth |HP: ATK: DEF: SPD: |
+    Moves: {}
+31: Type(s): Water/Earth |HP: ATK: DEF: SPD: |
+    Moves: {}
+32: Type(s): Water/Earth |HP: ATK: DEF: SPD: |
+    Moves: {}
+33: Type(s): Water/Wind |HP: ATK: DEF: SPD: |
+    Moves: {}
+34: Type(s): Water/Wind |HP: ATK: DEF: SPD: |
+    Moves: {}
+35: Type(s): Water/Wind |HP: ATK: DEF: SPD: |
+    Moves: {}
+36: Type(s): Earth/Wind |HP: ATK: DEF: SPD: |
+    Moves: {}
+37: Type(s): Earth/Wind |HP: ATK: DEF: SPD: |
+    Moves: {}
+38: Type(s): Earth/Wind |HP: ATK: DEF: SPD: |
+    Moves: {}
+39: Type(s): Divine/Fire |HP: ATK: DEF: SPD: |
+    Moves: {}
+40: Type(s): Divine/Water |HP: ATK: DEF: SPD: |
+    Moves: {}
+41: Type(s): Divine/Earth |HP: ATK: DEF: SPD: |
+    Moves: {}
+42: Type(s): Divine/Wind |HP: ATK: DEF: SPD: |
+    Moves: {}
+43: Type(s): Divine |HP: ATK: DEF: SPD: |
+    Moves: {}
+44: Type(s): Divine |HP: ATK: DEF: SPD: |
+    Moves: {}
